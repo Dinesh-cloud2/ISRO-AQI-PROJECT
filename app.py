@@ -21,4 +21,4 @@ using
 Choose a page from the sidebar.
 """)
 
-st.success("Project Version 2.0")
+st.success("🚀 ISRO AI Surface AQI Intelligence Platform v1.0")
